@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SpaceShooter(project)/SpaceShooter(project).vcxproj" Id="c6a17fd7-5a96-49b5-bd85-40dcf358668f" />
+</Solution>

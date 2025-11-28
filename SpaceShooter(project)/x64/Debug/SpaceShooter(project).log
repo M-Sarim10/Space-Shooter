@@ -1,0 +1,10 @@
+﻿  SpaceShooter(project).cpp
+C:\Users\sarim\source\repos\SpaceShooter(project)\SpaceShooter(project)\SpaceShooter(project).cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sarim\source\repos\SpaceShooter(project)\SpaceShooter(project)\SpaceShooter(project).cpp(135,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\sarim\source\repos\SpaceShooter(project)\SpaceShooter(project)\SpaceShooter(project).cpp(153,13): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  gamefunctionality.cpp
+C:\Users\sarim\source\repos\SpaceShooter(project)\SpaceShooter(project)\gamefunctionality.cpp(338,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SpaceShooter(project).vcxproj -> C:\Users\sarim\source\repos\SpaceShooter(project)\x64\Debug\SpaceShooter(project).exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
